@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTestApp</string>
+    <string name="button_click_event">Button Click Event</string>
+    <string name="button_long_click_event">Button Long Click Event</string>
+    <string name="button_on_key">Button onTouch Event</string>
+    <string name="testowa_appka">Testowa appka</string>
+    <string name="name">OnKey Event Text</string>
+</resources>
